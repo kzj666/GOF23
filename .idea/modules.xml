@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Singleton/A_Singleton.iml" filepath="$PROJECT_DIR$/A_Singleton/A_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B_Factory/B_Factory.iml" filepath="$PROJECT_DIR$/B_Factory/B_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_Builder/C_Builder.iml" filepath="$PROJECT_DIR$/C_Builder/C_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_Prototype/D_Prototype.iml" filepath="$PROJECT_DIR$/D_Prototype/D_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E_Adapter/E_Adapter.iml" filepath="$PROJECT_DIR$/E_Adapter/E_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F_Bridge/F_Bridge.iml" filepath="$PROJECT_DIR$/F_Bridge/F_Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GOF23.iml" filepath="$PROJECT_DIR$/GOF23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G_Proxy/G_Proxy.iml" filepath="$PROJECT_DIR$/G_Proxy/G_Proxy.iml" />
+    </modules>
+  </component>
+</project>
